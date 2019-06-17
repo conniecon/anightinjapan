@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: littlemissconnie@yahoo.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: Const8181
 github_username: conniecon
 markdown: kramdown
