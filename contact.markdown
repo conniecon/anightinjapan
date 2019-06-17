@@ -6,4 +6,4 @@ potato: test test test
 
 Hey if you want to contact us, email at...[anightinjapan@yahoo.com]
 
-(mail to: anightinjapan@yahoo.com)
+(mailto:anightinjapan@yahoo.com)
